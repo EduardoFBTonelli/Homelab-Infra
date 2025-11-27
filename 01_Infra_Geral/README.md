@@ -13,7 +13,7 @@ Esta pasta contém o planejamento lógico de toda a rede Homelab, incluindo o di
 | VLAN ID | Nome | Sub-rede | Propósito | Gateway |
 | :--- | :--- | :--- | :--- | :--- |
 | **VLAN 1** | Gerenciamento | | Acesso administrativo a switches/roteadores. |   |
-| **VLAN 10** | Clientes (Wi-Fi) | 192.168.10.0/24 | Dispositivos móveis e PCs de usuários. |   |
+| **VLAN 10** | Clientes (Wi-Fi) |   | Dispositivos móveis e PCs de usuários. |   |
 | **VLAN 20** | Servidores |  | Servidor Minecraft, Webserver, VM's. |   |
 
 [Link para o arquivo de Endereçamento IP Detalhado (a ser criado depois): ./Enderecamento_Detalhado.md]
